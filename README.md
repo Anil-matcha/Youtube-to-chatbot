@@ -11,6 +11,8 @@ Replit and streamlit version coming soon
 
 Follow [Anil Chandra Naidu Matcha](https://twitter.com/matchaman11) on twitter for updates
 
+Subscribe to https://www.youtube.com/@AnilChandraNaiduMatcha for more such video tutorials
+
 ### How to run ? (Things might change based on OS)
 
 1. Create a virtual environment in python https://docs.python.org/3/library/venv.html
@@ -34,4 +36,6 @@ https://heybot.thesamur.ai/
 [Chat with Website code](https://github.com/Anil-matcha/Website-to-Chatbot)
 
 [Chat with CSV code](https://github.com/Anil-matcha/Chat-With-Excel)
+
+[ChatGPT in Discord code](https://github.com/Anil-matcha/DiscordGPT)
 
